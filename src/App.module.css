@@ -1,0 +1,9 @@
+.app{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border: .5px solid #222;
+  margin: 2em 0;
+  padding: 20px;
+  gap: 2em;
+}

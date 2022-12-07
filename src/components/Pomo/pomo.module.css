@@ -1,0 +1,22 @@
+.pomo{
+  min-width: 250px;
+  text-align: center;
+}
+
+.timer{
+  display: block;
+  font-family: "Anton";
+  font-size: 4em;
+  letter-spacing: .2em;
+}
+
+.pomoButtonGroup{
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.pomoButtonGroup button {
+  padding: 10px;
+  cursor: pointer;
+}
